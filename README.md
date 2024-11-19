@@ -1,7 +1,29 @@
-## Hi there 👋
+<h1>Hi, I'm Edris! <br/>Mathematics and Computer Science Student at McMaster University</h1>
 
+<h2>👨‍💻 Software Development Projects:</h2>
+
+- <b>Java</b>
+  - 
+- <b>Python</b>
+  - 
+- <b>C</b>
+  - 
+- <b>C# (.NET Desktop Applications)</b>
+  - 
+- <b>Data Structures and Algorithms</b>
+  -
+- <b>MatLab</b>
+
+
+<h2> 🤳 Connect with me:</h2>
+
+
+[<img align="left" alt="Edris Lutfi | LinkedIn" width="22px" src="[linkedin.com/in/edris-lutfi](https://www.linkedin.com/in/edris-lutfi/overlay/contact-info/)" />][linkedin]
+
+
+[linkedin]: linkedin.com/in/edris-lutfi
 <!--
-**Edris-L/Edris-L** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
