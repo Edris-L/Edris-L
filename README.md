@@ -8,9 +8,7 @@
   - 
 - <b>C</b>
   - [Frogger Game][(https://github.com/joshmadakor1/Sentinel-Lab](https://github.com/Edris-L/Frogger-Game)](https://github.com/Edris-L/Frogger-Game)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - 
 - <b>C# (.NET Desktop Applications)</b>
   - 
 - <b>Data Structures and Algorithms</b>
