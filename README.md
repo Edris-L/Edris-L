@@ -8,7 +8,7 @@
   - 
 - <b>C</b>
   - [Frogger Game][(https://github.com/joshmadakor1/Sentinel-Lab](https://github.com/Edris-L/Frogger-Game)](https://github.com/Edris-L/Frogger-Game)
-  - 
+  - [Developing Genetic Optimization Algorithm in C with a Case Study]https://github.com/Edris-L/Developing-Genetic-Optimization-Algorithm-in-C-with-a-case-study
 - <b>C# (.NET Desktop Applications)</b>
   - 
 - <b>Data Structures and Algorithms</b>
