@@ -13,7 +13,9 @@
 - <b>Data Structures and Algorithms</b>
   -
 - <b>Logical Reasoning for Computer Science</b>
+  -
 - <b>MatLab</b>
+  -
 
 
 <h2> 🤳 Connect with me:</h2>
